@@ -3,6 +3,7 @@ Vulnerability Assessment Report – Live Website (Read-Only Scope)
 This repository contains a Vulnerability Assessment Report conducted on a live web application within a read-only testing scope. The assessment focuses on identifying common web security vulnerabilities and misconfigurations without exploiting issues or modifying application data.
 
 Key Details
+website tested:testfire.net
 
 Assessment Type: Vulnerability Assessment
 
