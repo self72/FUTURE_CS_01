@@ -4,8 +4,6 @@ This repository contains a Vulnerability Assessment Report conducted on a live w
 
 Key Details
 
-website tested:testfire.net
-
 Assessment Type: Vulnerability Assessment
 
 Scope: Live Website (Read-Only)
