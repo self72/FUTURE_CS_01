@@ -6,7 +6,7 @@ Key Details
 
 Assessment Type: Vulnerability Assessment
 
-Scope: Live Website (Read-Only)
+Scope: Live Website (Read-Only) testfire.net
 
 Methodology: OWASP Top 10 & automated/manual analysis
 
